@@ -1,0 +1,8 @@
+MANIFEST
+Makefile.PL
+README
+lib/Math/Vector/SortIndexes.pm
+t/lib/Test/Builder.pm
+t/lib/Test/More.pm
+t/lib/Test/Simple.pm
+t/Math-Vector-SortIndexes.t
