@@ -1,6 +1,7 @@
 MANIFEST
 Makefile.PL
 README
+CHANGES
 lib/Math/Vector/SortIndexes.pm
 t/lib/Test/Builder.pm
 t/lib/Test/More.pm

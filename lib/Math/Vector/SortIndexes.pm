@@ -1,6 +1,6 @@
 package Math::Vector::SortIndexes;
 
-$VERSION = 0.01;
+$VERSION = 0.02;
 @EXPORT_OK = qw(sort_indexes_descending sort_indexes_ascending);
 use base 'Exporter';
 
@@ -40,7 +40,7 @@ David James <david@jamesgang.com>
 
 =head1 SEE ALSO
 
-L<Math::VecStats>
+L<Math::VecStat>
 
 =head1 LICENSE
 
